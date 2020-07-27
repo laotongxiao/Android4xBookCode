@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">L10NDemo</string>
+    <string name="text_a">这是默认的strings.xml资源文件</string>
+    <string name="text_b">这是中国国旗</string>
+    <string name="dialog_title">未本地化</string>
+    <string name="dialog_text">本对话框中的内容没有本地化，相关资源来自 values/strings.xml。</string>
+</resources>

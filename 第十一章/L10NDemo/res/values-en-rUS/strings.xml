@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">L10NDemo</string>
+    <string name="text_a">local values from values-en-rUS/strings.xml</string>
+    <string name="text_b">This is the flag of America.</string>
+    <string name="dialog_title">Localised</string>
+    <string name="dialog_text">This dialog box"'"s strings are localised. For every locale, the text here will come from values-en-rUS/strings.xml.</string>
+</resources>
