@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, SendMessageDemoActivity!</string>
+    <string name="app_name">SendMessageDemo</string>
+    <string name="receiver">收件人：</string>
+    <string name="msg">短信内容：</string>
+</resources>
