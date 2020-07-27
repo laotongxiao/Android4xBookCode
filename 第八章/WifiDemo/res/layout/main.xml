@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:id="@+id/mScrollView" android:layout_width="fill_parent"  
+    android:layout_height="wrap_content" android:scrollbars="vertical">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/open_bt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="打开wifi" />
+        
+        <Button
+            android:id="@+id/close_bt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="关闭wifi" />
+        
+        <Button
+            android:id="@+id/check_bt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="检查wifi" />
+        
+        <Button
+            android:id="@+id/search_bt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="扫描wifi" />
+    </LinearLayout>
+	<TextView 
+	    android:id="@+id/text"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:text="null"/>
+</LinearLayout>
+</ScrollView>  

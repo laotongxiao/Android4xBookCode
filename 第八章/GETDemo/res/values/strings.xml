@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GETDemo</string>
+    <string name="button_name">GET方式获取数据</string>
+
+</resources>

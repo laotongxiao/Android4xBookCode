@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">URLDemo</string>
+    <string name="button_name01">点击获取数据</string>
+
+</resources>

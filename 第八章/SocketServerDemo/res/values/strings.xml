@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">点击按钮向服务器发送数据</string>
+    <string name="app_name">UpdClient</string>
+    <string name="btn_listen">发送数据</string>
+</resources>
