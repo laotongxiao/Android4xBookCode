@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+<Button 
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="播放存储在文件系统的音乐"
+    android:id="@+id/button01"
+  
+    />
+    <Button 
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="播放网络中的音乐"
+    android:id="@+id/button02"
+  
+    />
+    <Button 
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="播放本地资源的音乐"
+    android:id="@+id/button03"
+  
+    />
+</LinearLayout>

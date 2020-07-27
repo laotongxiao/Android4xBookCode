@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">使用android.hardware.Camera进行拍照实例</string>
+    <string name="app_name">MyCameraDemo</string>
+    <string name="opBtn">打开摄像头</string>
+    <string name="play">拍摄</string>
+    <string name="cloBtn">关闭摄像头</string>
+
+</resources>

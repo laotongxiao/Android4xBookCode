@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">使用MediaRecorder进行视频录制实例</string>
+    <string name="app_name">VideoRecorderDemo</string>
+    <string name="opBtn">打开摄像头</string>
+    <string name="play">录制</string>
+    <string name="cloBtn">关闭摄像头</string>
+
+</resources>
