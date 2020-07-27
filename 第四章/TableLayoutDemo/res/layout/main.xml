@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:layout_width="fill_parent" 
+    android:layout_height="fill_parent"
+    android:shrinkColumns="0"
+    android:collapseColumns="0" android:stretchColumns="0">     
+    <TableRow >
+        <TextView 
+            android:text="@string/column1" />
+        <TextView 
+            android:text="@string/column2"  />
+        <TextView 
+            android:text="@string/column3" />
+    </TableRow>
+   
+    <TextView 
+        android:layout_height="wrap_content"        
+        android:background="#fff000" 
+        android:text="单独的一个TextView"
+        android:gravity="center"/>
+	<TableRow> 
+        <Button 
+            android:text="@string/merger" 
+            android:layout_span="3" 
+            android:gravity="center_horizontal"  
+            android:textColor="#f00" 
+             /> 
+    </TableRow> 
+	
+	<TextView 
+        android:layout_height="wrap_content"
+        android:background="#fa05"
+        android:text="单独的一个TextView"/>
+	<TableRow android:layout_height="wrap_content">
+	    <TextView 	        
+	        android:text="@string/empty" />
+	    <Button 
+	        android:text="@string/row2column2" /> 
+		<Button
+		    android:text="@string/row2column3" />
+	</TableRow>
+</TableLayout>

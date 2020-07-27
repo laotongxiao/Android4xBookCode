@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item 
+        android:id="@+id/item1" 
+        android:title="@string/menuitem1"
+        android:icon="@drawable/icon01"
+        android:showAsAction="ifRoom"/>     
+    <item 
+        android:id="@+id/item2" 
+        android:title="@string/menuitem2"
+        android:icon="@drawable/icon02"
+        android:showAsAction="ifRoom"/>
+    <item 
+        android:id="@+id/item3" 
+        android:title="@string/menuitem3"
+        android:icon="@drawable/icon03"
+        android:showAsAction="ifRoom"/>
+    <item 
+        android:id="@+id/item4" 
+        android:title="@string/menuitem4"
+        android:icon="@drawable/icon04"
+        android:showAsAction="ifRoom"/>
+    <item 
+        android:id="@+id/item5" 
+        android:title="@string/menuitem5"
+        android:icon="@drawable/icon05"
+        android:showAsAction="ifRoom"/>
+    <item 
+        android:id="@+id/item6" 
+        android:title="@string/menuitem6"
+        android:icon="@drawable/icon06"
+        android:showAsAction="ifRoom"/>
+    <item 
+        android:id="@+id/item7" 
+        android:title="@string/menuitem7"
+        android:icon="@drawable/icon07"
+        android:showAsAction="ifRoom"/>  
+
+</menu>

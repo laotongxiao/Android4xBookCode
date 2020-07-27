@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LinearLayoutDemo</string>
+    <string name="red">red</string>
+    <string name="yellow">yellow</string>
+    <string name="green">green</string>
+    <string name="blue">blue</string>
+    <string name="row1">row one</string>
+    <string name="row2">row two</string>
+    <string name="row3">row three</string>
+    <string name="row4">row four</string>
+</resources>

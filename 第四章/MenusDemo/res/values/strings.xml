@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Menus演示</string>
+    <string name="app_name">MenusDemo</string>
+    <string name="menuitem1">menuitem1</string>
+    <string name="menuitem2">menuitem2</string>
+    <string name="menuitem3">menuitem3</string>
+    <string name="menuitem4">menuitem4</string>
+    <string name="menuitem5">menuitem5</string>
+    <string name="menuitem6">menuitem6</string>
+    <string name="menuitem7">menuitem7</string>
+
+</resources>

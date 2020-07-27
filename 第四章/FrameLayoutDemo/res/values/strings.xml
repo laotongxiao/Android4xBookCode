@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">FrameLayoutDemo</string>
+    <string name="first">第一层</string>    
+    <string name="second">第二层</string>
+    <string name="third">第三层</string>
+    <string name="forth">第四层</string>
+</resources>

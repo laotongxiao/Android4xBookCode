@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, WidgetDemoActivity!</string>
+    <string name="app_name">WidgetDemo</string>
+
+    <string name="checkboxhello">你的爱好是:</string>
+    
+    <string name="song">听歌曲</string>
+    <string name="book">看书</string>
+    
+    <string name="radiohello">你最喜欢的运动是:</string>
+    <string name="bascketball">篮球</string>    
+    <string name="badminton">羽毛球</string>
+    <string name="football">足球</string>
+</resources>

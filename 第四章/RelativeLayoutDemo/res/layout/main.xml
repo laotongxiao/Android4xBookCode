@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android="http://schemas.android.com/apk/res/android" >
+
+    <TextView
+        android:id="@+id/label"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/hello" />
+
+    <EditText
+        android:id="@+id/enter"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        
+        android:layout_below="@+id/label" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/enter"
+        android:text="@string/but1text" />
+
+    <Button
+        android:id="@+id/ok"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"        
+        android:layout_alignBottom="@+id/button1"
+        android:layout_alignParentLeft="true"
+        android:text="@string/but2text" />
+
+</RelativeLayout>

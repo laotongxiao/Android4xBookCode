@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="city">
+        <item >shenyang</item>
+        <item >nanjing</item>
+        <item >beijing</item>
+        <item >tianjin</item>
+    </string-array>    
+</resources>

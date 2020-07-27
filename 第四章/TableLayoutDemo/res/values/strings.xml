@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, TableLayout!</string>
+    <string name="app_name">TableLayoutDemo</string>
+	<string name="column1">第一行第一列</string>
+	<string name="column2">第一行第二列</string>
+	<string name="column3">第一行第三列</string>
+	<string name="empty">最左面的可伸缩TextView</string>
+	<string name="row2column2">第二行第三列</string>
+	<string name="row2column3">End</string>
+	<string name="merger">合并三个单元格</string>
+</resources>

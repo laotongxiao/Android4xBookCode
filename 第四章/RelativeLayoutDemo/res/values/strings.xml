@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">RelativeLayout 相对布局</string>
+    <string name="app_name">RelativeLayoutDemo</string>
+    <string name="but1text">取消</string>
+    <string name="but2text">确定</string>
+
+</resources>
