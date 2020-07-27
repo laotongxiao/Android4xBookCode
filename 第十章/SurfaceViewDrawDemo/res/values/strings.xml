@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">在SurfaceView中使用Canvas对象绘制静态图实例</string>
+    <string name="app_name">SurfaceViewDrawDemo</string>
+
+</resources>
